@@ -1,0 +1,11 @@
+.container{
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+    height: 2%;
+}
+
+.text{
+    padding: 0 1.5em 0 1.5em;
+    justify-content: center;
+}
